@@ -1,0 +1,1 @@
+from .cnn.shallownet import ShallowNet
